@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\C++\Bejeweled3\Bejeweled3\audio_control.hpp(20,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\Bejeweled3\Bejeweled3\audio_control.hpp(35,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\Bejeweled3\Bejeweled3\music_and_sound.hpp(35,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\C++\Bejeweled3\Bejeweled3\music_and_sound.hpp(100,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Bejeweled3.vcxproj -> D:\C++\Bejeweled3\x64\Debug\Bejeweled3.exe
